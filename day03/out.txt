@@ -4,14 +4,3 @@ Even : 2
 Even : 0
 Even : 1
 Even : 2
-Even : 0
-Even : 1
-Even : 2
-Even : 3
-Even : 4
-Even : 5
-Even : 6
-Even : 7
-Even : 8
-Even : 9
-Even : 10

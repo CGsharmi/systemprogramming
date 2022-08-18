@@ -39,9 +39,9 @@
 
 int main()
 {
-	//execl("/home/sharmisk/systemprogramming/day03,"hello", (char*)0);
+	//execl("/home/bhima/CapGJul05Batch/day03/hello","hello", (char*)0);
 	char *temp[4];
-	temp[0] = "/home/sharmisk/systemprogramming/day03/hello";
+	temp[0] = "/home/bhima/CapGJul05Batch/day03/hello";
 	temp[1] = "Bhima";
 	temp[2] = "shankar";
 	temp[3] = (char*)0;
